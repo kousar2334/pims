@@ -202,6 +202,18 @@ h6 {
     padding: 50px 60px;
     margin-top: 20vh;
 }
+.login-form{
+    background: #9b5252;
+    margin-top: 20vh; 
+    min-height: 300px;
+    padding:35px 60px;
+    border-radius: 10px;
+}
+.login-form img{
+    width:200px;
+    height:65px;
+    margin-bottom: 30px;
+}
 .form-container h1{
 	font-size: 24px;
 	padding-bottom: 20px;
