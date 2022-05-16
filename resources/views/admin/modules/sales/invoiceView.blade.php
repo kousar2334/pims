@@ -30,7 +30,8 @@
         <div class="text-dark px-0">
             <p class="mb-1"><a href="{{ route('admin.dashboard') }}"><i class="fa fa-home"></i> Dashboard /
                 </a><a href="{{ route('admin.salesList') }}">Sales /</a><a href="{{ route('admin.purchaseAdd') }}"
-                    class="active-slink">Invoice Details</a> <span class="top-date">{{ date('l, jS F Y') }}</span></p>
+                    class="active-slink">Invoice Details</a> <span class="top-date">{{ date('l, jS F Y') }}</span>
+            </p>
 
         </div>
     </div>
@@ -187,8 +188,7 @@
                             <div class="col-6" style="text-align: left;">
                                 <p class="bill_p" style="font-size: 16px;font-weight: bold;margin-bottom:1px;">
                                     {{ $system->siteEmail }}</p>
-                                <p class="bill_p" style="font-size: 16px;font-weight: bold;">www.formula1waxbd.com
-                                </p>
+
                             </div>
                         </div>
                         <div style="text-align: center;">

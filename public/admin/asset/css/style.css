@@ -43,7 +43,9 @@ h6 {
     font-size: 12px;
     line-height: 12px;
 }
-
+.nav-item{
+    padding: 0px 10px;
+}
 .active-slink{
     font-weight: bold;
     color:black;

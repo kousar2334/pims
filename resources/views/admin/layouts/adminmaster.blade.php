@@ -245,8 +245,8 @@
             <ul class="navbar-nav mr-auto">
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-                        <i class="fa fa-product-hunt" aria-hidden="true"></i> Products
+                    <a class="nav-link " href="#" data-toggle="dropdown">
+                        <i class="fa fa-barcode" aria-hidden="true"></i> Products
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
                         <li>
@@ -270,8 +270,9 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-                        <i class="fa fa-calculator"></i> Sales
+                    <a class="nav-link " href="#" data-toggle="dropdown">
+                        <i class="fa fa-heart" aria-hidden="true"></i>
+                        Sales
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
                         <li>
@@ -286,8 +287,8 @@
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-                        Purchase
+                    <a class="nav-link " href="#" data-toggle="dropdown">
+                        <i class="fa fa-shopping-cart" aria-hidden="true"></i> Purchase
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
                         <li>
@@ -305,8 +306,8 @@
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-                        Peoples
+                    <a class="nav-link " href="#" data-toggle="dropdown">
+                        <i class="fa fa-users" aria-hidden="true"></i> Peoples
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
 
@@ -329,7 +330,7 @@
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                    <a class="nav-link " href="#" data-toggle="dropdown">
                         <i class="fa fa-wrench" aria-hidden="true"></i> Settings
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
@@ -362,8 +363,8 @@
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-                        SMS
+                    <a class="nav-link " href="#" data-toggle="dropdown">
+                        <i class="fa fa-comments" aria-hidden="true"></i> SMS
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
 
@@ -382,8 +383,8 @@
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-                        Reports
+                    <a class="nav-link " href="#" data-toggle="dropdown">
+                        <i class="fa fa-list-alt" aria-hidden="true"></i> Reports
                     </a>
                     <ul class="dropdown-menu p-0" id="dropdown-background">
                         <li>
